@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Anak Kambing Saya",
+    "id": 0,
+    "uri": "asset:///anakkambingsaya.mp3",
+    "composer": "Anak Kambing Saya",
+    "albumArtID": "anakkambingsaya"
+  },
+  {
+    "name": "Apuse",
+    "id": 1,
+    "uri": "asset:///apuse.mp3",
+    "composer": "Apuse",
+    "albumArtID": "apuse"
+  },
+  {
+    "name": "Indung Indung",
+    "id": 2,
+    "uri": "asset:///indungindung.mp3",
+    "composer": "Indung Indung",
+    "albumArtID": "indungindung"
+  },
+  {
+    "name": "Jali Jali",
+    "id": 3,
+    "uri": "asset:///jalijali.mp3",
+    "composer": "Jali Jali",
+    "albumArtID": "jalijali"
+  },
+  {
+    "name": "Manuk Dadali",
+    "id": 4,
+    "uri": "asset:///manukdadali.mp3",
+    "composer": "Manuk Dadali",
+    "albumArtID": "manukdadali"
+  },
+  {
+    "name": "Putri Cening Ayu",
+    "id": 5,
+    "uri": "asset:///putriceningayu.mp3",
+    "composer": "Putri Cening Ayu",
+    "albumArtID": "putriceningayu"
+  },
+  {
+    "name": "Rasa Sayange",
+    "id": 6,
+    "uri": "asset:///rasasayange.mp3",
+    "composer": "Rasa Sayange",
+    "albumArtID": "rasasayange"
+  },
+  {
+    "name": "Rek Ayo Rek",
+    "id": 7,
+    "uri": "asset:///rekayorek.mp3",
+    "composer": "Rek Ayo Rek",
+    "albumArtID": "rekayorek"
+  },
+  {
+    "name": "Lir Ilir",
+    "id": 8,
+    "uri": "asset:///lirilir.mp3",
+    "composer": "Lir Ilir",
+    "albumArtID": "lirilir"
+  },
+  {
+    "name": "Sik Sik Batumanikam",
+    "id": 9,
+    "uri": "asset:///siksiksibatumanikam.mp3",
+    "composer": "Sik Sik Batumanikam",
+    "albumArtID": "siksikbatumanikam"
+  },
+  {
+    "name": "String Quarter No. 14",
+    "id": 10,
+    "uri": "asset:///string_quartet_14.mp3",
+    "composer": "Franz Schubert",
+    "albumArtID": "schubert"
+  }
+]
